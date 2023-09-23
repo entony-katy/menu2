@@ -29,7 +29,7 @@ span#hamburguer:active {
   color:black;
 }
 menu {
-  display: block;
+  display: none;
 }
 
 menu > ul {
